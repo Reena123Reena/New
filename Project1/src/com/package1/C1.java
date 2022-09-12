@@ -6,6 +6,8 @@ public class C1 {
 		
 		System.out.println("Reeana");
 		
+		System.out.println("Mamta");
+		
 	}
 
 }
